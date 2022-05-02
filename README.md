@@ -1,7 +1,7 @@
 # One script to hodl and one script to spend
 
 
-## Run task1.py
+## Run p2sh_with_timelock.py
 Use params to run this script
 ```
 python p2sh_with_timelock.py <bitcoinaddress> <timelock>
