@@ -1,24 +1,20 @@
-# block-521
+# One script to hodl and one script to spend
 
-I have runned bitcoin core version 22.0.0 for this assigment.
 
 ## Run task1.py
 Use params to run this script
 ```
-python task1.py bitcoinaddress timelock
+python p2sh_with_timelock.py <bitcoinaddress> <timelock>
 ```
-## Run task2.py
+## Run spend_p2sh_with_timelock.py
 Insert the private keys in the script
 
 ```
-python task2.py
+python spend_p2sh_with_timelock.py
 ```
 
 
-Please let me know if I made any security mistakes or if there is a better way 
-of solving the task than how I did it. 
+Please let me know if I made any security mistakes or if there is 
+a better solution to this than how I did it. 
 
-This assessment was demanding, but I learned a lot from it.
-
-Best,
-Ruben
+## Warning, not intended to use for other than testing
