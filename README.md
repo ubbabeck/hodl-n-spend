@@ -17,4 +17,4 @@ python spend_p2sh_with_timelock.py
 Please let me know if I made any security mistakes or if there is 
 a better solution to this than how I did it. 
 
-## Warning, not intended to use for other than testing
+## To be used at your own risk 
